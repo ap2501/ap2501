@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Patidar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **ChatBot Project Using Natural Language Processing**
+- 🌱 I’m currently learning **NextJS**
 
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **work.amit2501@gmail.com**
 
